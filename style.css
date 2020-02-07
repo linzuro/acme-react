@@ -1,0 +1,34 @@
+ul{
+    width:90%;
+    height:3rem;
+    display:flex;
+    flex-direction:column;
+    justify-content: start;
+    padding:10px;
+    color:black;
+    font-family:sans-serif;
+    margin: 10px;
+    background-color:white;
+    list-style-type: none;
+}
+ul.favorite{
+    width:90%;
+    height:3rem;
+    display:flex;
+    flex-direction:column;
+    justify-content: start;
+    padding:10px;
+    background-color:tomato;
+    color:white;
+    font-family:sans-serif;
+    margin: 10px;
+}
+.title{
+    font-size:24;
+    margin:10px;
+}
+.header{
+    font-size:20;
+    text-decoration: underline;
+    margin:10px;
+}
